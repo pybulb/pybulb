@@ -1,0 +1,18 @@
+[project]
+name = "pybulb"
+version = "0.0.1"
+authors = [
+  { name="proplayer919", email="proplayer919@fifly.org" },
+]
+description = "A package for creating LLMs and Neural Networks"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/pybulb/pybulb"
+Issues = "https://github.com/pybulb/pybulb/issues"
